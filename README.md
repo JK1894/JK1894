@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JK1894
 - 👀 I’m interested in automation and monitoring !
-- 🌱 I’m currently trying to brush up my skills with SCOM Management Pack development !
+- 🌱 I’m currently working on SCOM Management Pack development & powershell !
 
 
 <!---
